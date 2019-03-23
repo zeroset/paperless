@@ -13,6 +13,7 @@ should work) that has the following software installed:
 * `unpaper`_
 * `libpoppler-cpp-dev`_ PDF rendering library
 * `optipng`_
+* `ghostscript`_
 
 .. _Python3: https://python.org/
 .. _GNU Privacy Guard: https://gnupg.org
